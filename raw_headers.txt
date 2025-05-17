@@ -1,0 +1,54 @@
+:authority
+music.youtube.com
+:method
+POST
+:path
+/youtubei/v1/browse?ctoken=4qmFsgJDEhdGRW11c2ljX2xpYnJhcnlfbGFuZGluZxooQ0JsNkdrTm5aMGxDYUVGRFIyZEtiR0pwUlVGQlNVRkZWMmRJWVZGUg%253D%253D&continuation=4qmFsgJDEhdGRW11c2ljX2xpYnJhcnlfbGFuZGluZxooQ0JsNkdrTm5aMGxDYUVGRFIyZEtiR0pwUlVGQlNVRkZWMmRJWVZGUg%253D%253D&type=next&itct=CBYQybcCIhMI5cC69tKpjQMV_o7YBR1BNwg6&prettyPrint=false
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9,en-IN;q=0.8
+authorization
+SAPISIDHASH 1747455479_fc8875b978c8aefd7743716766d924fd50e3b7eb_u SAPISID3PHASH 1747455479_fc8875b978c8aefd7743716766d924fd50e3b7eb_u
+content-length
+3029
+content-type
+application/json
+cookie
+VISITOR_INFO1_LIVE=dFQO2UeOl7E; VISITOR_PRIVACY_METADATA=CgJJThIEGgAgIw%3D%3D; PREF=f4=4000000&f6=40000000&tz=Asia.Calcutta&f7=100; __Secure-1PSIDTS=sidts-CjIBjplskFjEbzH062biMnkpDreJ_10nHOqmfg_z2QGkq_2Y-OYSJ2M_rVkkVTDLuCTbnhAA; __Secure-3PSIDTS=sidts-CjIBjplskFjEbzH062biMnkpDreJ_10nHOqmfg_z2QGkq_2Y-OYSJ2M_rVkkVTDLuCTbnhAA; __Secure-3PAPISID=jufiTW1q0eYcldpM/AgLIPBnDr0eZaSyVv; __Secure-3PSID=g.a000wggVFjcqZm62VQ_bUjBQWbW-Evg65CEzELSCf4PG7i5HhJvZGlfS-8s_e2py9hCZtnJYmQACgYKAQESARMSFQHGX2Mip4git98YNy2-VUmiMmTuPhoVAUF8yKrIPyCJpcX4BOhUfnPZXNtq0076; LOGIN_INFO=AFmmF2swRgIhAPv36HfGsHQfWOjMlfyFdPFZn9NYpJg-Nm6fjuy9jkm3AiEA9QzvLidqz2rKcg1s8tcxZbFswDu2D7BP0Ri3BcJA3wk:QUQ3MjNmeE40R1ktWl9YUzQ3dG5XLUN5ZF9fa1ZxM1hvSDJTQzRjTmNxcFhPXzN5ZVdlN3BLcGI0Q3BTVFVvNVJFcnlWaDRXcFFnZVRUdnJtQ1V1U3VQb1EtSDhPdzIyYXFwc3YycWdYeUNmcEN5d2JfSV84MkNUMzk0UjZwcHEtZEprMm1KV2MxbmdjSDh4dlhVTzJ0ODFKWTFlX0V6R2tn; YSC=rszTHwq25Zo; __Secure-ROLLOUT_TOKEN=CJf_7YCvkrqHbhCOxfSY4YeNAxjjxort0qmNAw%3D%3D; _gcl_au=1.1.67886076.1747455460; __Secure-3PSIDCC=AKEyXzWZURr_V_SliyBKSUIPU8up5JAr7XCM82ZwdfnwY4X4pMbWyW0gfFWEw3AmVlKwWPM0
+origin
+https://music.youtube.com
+priority
+u=1, i
+referer
+https://music.youtube.com/library
+sec-ch-ua
+"Chromium";v="136", "Microsoft Edge";v="136", "Not.A/Brand";v="99"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+same-origin
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+x-goog-authuser
+0
+x-goog-visitor-id
+CgtkRlFPMlVlT2w3RSjem6DBBjIKCgJJThIEGgAgIw%3D%3D
+x-origin
+https://music.youtube.com
+x-youtube-bootstrap-logged-in
+true
+x-youtube-client-name
+67
+x-youtube-client-version
+1.20250514.03.00
